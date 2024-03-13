@@ -1,5 +1,5 @@
 - 👀 Hi, I’m @Caro-isj
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript and React
 - 📫 How to reach me cisj24@gmail.com
 
 <!---
